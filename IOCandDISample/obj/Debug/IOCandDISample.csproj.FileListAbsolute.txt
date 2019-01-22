@@ -1,0 +1,7 @@
+C:\Users\nkudu\source\repos\IOCandDISample\IOCandDISample\bin\Debug\IOCandDISample.exe.config
+C:\Users\nkudu\source\repos\IOCandDISample\IOCandDISample\bin\Debug\IOCandDISample.exe
+C:\Users\nkudu\source\repos\IOCandDISample\IOCandDISample\bin\Debug\IOCandDISample.pdb
+C:\Users\nkudu\source\repos\IOCandDISample\IOCandDISample\obj\Debug\IOCandDISample.csprojAssemblyReference.cache
+C:\Users\nkudu\source\repos\IOCandDISample\IOCandDISample\obj\Debug\IOCandDISample.csproj.CoreCompileInputs.cache
+C:\Users\nkudu\source\repos\IOCandDISample\IOCandDISample\obj\Debug\IOCandDISample.exe
+C:\Users\nkudu\source\repos\IOCandDISample\IOCandDISample\obj\Debug\IOCandDISample.pdb
